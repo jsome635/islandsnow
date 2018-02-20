@@ -8,3 +8,9 @@
   border: none;
   box-shadow: none;
 }
+
+.ui.footer {
+  color: #FFFFFF;
+  background-color: #2D2D2D;
+  padding: 25px;
+}
